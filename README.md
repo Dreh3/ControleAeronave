@@ -21,7 +21,7 @@ __Os Componentes necessários para a execução da atividade são:__
    
 __Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguine link: [Projeto Integrador](https://youtu.be/7CeK5zgrJB4?feature=shared).__
 
-## Detalhamento Do Desenvolvimento
+## Detalhamento Das Funcionalidades
 
 O sistema desenvolvido simula um painel de controle de uma aeronave. Nele, há alertas visuais e sonoros a fim de instruir o operador sobre o estado do sistema. Além de controlar a posição da aeronave pelo joystick, sendo possível ainda visualizar a posição no display.<br>
 O sistema é habilitado e desabilitado pelo Botão A. Ao pressionar o botão para iniciar o sitema, o led verde é ligado e a matriz de leds inicia uma contagem regressiva (3,2,1), indicando que o joystick ainda não está operante. Após o final da contagem, um novo alerta é emitido, um sinal de exclamação vermelho. <br>
