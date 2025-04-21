@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/ControleAeronave.uf2'
+elf = 'ControleAeronave.elf'
