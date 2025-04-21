@@ -23,6 +23,6 @@ __Uma breve explicação do desenvolvimento e resultados obtidos podem ser visto
 
 ## Detalhamento Do Desenvolvimento
 
-O sistema desenvolvido simula um painel de controle de uma aeronave. Nele, há alertas visuais e sonoros a fim de instruir o operador sobre o estado do sistema. Além de controlar a posição da aeronave pelo joystick, sendo possível ainda visualizar a posição no display.
-O sistema é habilitado e desabilitado pelo Botão A. Ao pressionar o botão para iniciar o sitema, o led verde é ligado e a matriz de leds inicia uma contagem regressiva (3,2,1), indicando que o joystick ainda não está operante. Após o final da contagem, um novo alerta é emitido, um sinal de exclamação vermelho. 
+O sistema desenvolvido simula um painel de controle de uma aeronave. Nele, há alertas visuais e sonoros a fim de instruir o operador sobre o estado do sistema. Além de controlar a posição da aeronave pelo joystick, sendo possível ainda visualizar a posição no display.<br>
+O sistema é habilitado e desabilitado pelo Botão A. Ao pressionar o botão para iniciar o sitema, o led verde é ligado e a matriz de leds inicia uma contagem regressiva (3,2,1), indicando que o joystick ainda não está operante. Após o final da contagem, um novo alerta é emitido, um sinal de exclamação vermelho. <br>
 A partir desse momento já é possível mover os joystick e o quadrado (que representa a aeronave) moverá de maneira correspondente pelo display. Outro alerta importante é o alerta sonoro quando o quadrado está nas extremidades do dispay, simbolizando que a aeronave está nos limites de alcance. E por fim, ao pressionar o botão A para desligar, o led vermelho é ligado, não há mais leituras do joystick e a matriz de leds apaga.
