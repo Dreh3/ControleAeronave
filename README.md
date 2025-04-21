@@ -19,7 +19,7 @@ __Os Componentes necessários para a execução da atividade são:__
 5) Buzzer conectado ao GPIO 21;
 6) Display gráfico 128x64.
    
-__Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguine link: [Projeto Integrador](https://youtu.be/7CeK5zgrJB4?feature=shared).__
+__Uma breve explicação do desenvolvimento e resultados obtidos podem ser vistos no vídeo endereçado no seguine link: [Projeto Integrador](https://youtu.be/ZG2n8a_P59I?feature=shared).__
 
 ## Detalhamento Das Funcionalidades
 
